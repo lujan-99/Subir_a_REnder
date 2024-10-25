@@ -35,7 +35,6 @@ class User {
 
 // In-memory data
 let users = [
-    new User(1, 'Lujan Renteria David Fernando', 'lujan99', 'lujandivad@gmail.com', 'lujan123', new Date(), 'lujan.jpg', 'root'),
     new User(1, 'Lujan Renteria David Fernando', 'lujan99', 'lujandivad@gmail.com', 'lujan123', new Date(), 'lujan.jpg', 'root')
 ];
 
